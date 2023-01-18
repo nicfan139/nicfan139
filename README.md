@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there 👋, and welcome to my GitHub profile!
 
-<!--
-**nicfan139/nicfan139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Nicolas Fan (but you can call me Nic), and I'm a full-stack developer with 4-5 years of experience.
 
-Here are some ideas to get you started:
+Although I can do full-stack, I definitely prefer working on the front-end!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm primarily a React developer. But I also enjoy building small projects with SvelteKit, and I'm currently sharpening my knowledge with GraphQL.
+
+---
+
+My main specialties:
+- React
+- TypeScript
+- Next.js
+
+I also have experience with:
+- Ruby on Rails
+- PostgreQl
+- Node.js
+- Express
+- Jest
+- Cypress
+
+---
+
+When I'm not coding, I really enjoy:
+- Football/Soccer ️⚽️
+- Bass guitar 🎸
+- Video games 🎮
+- Discovering new food spots 🍽
+- Discovering new bars 🍺
+- Travelling ✈️
