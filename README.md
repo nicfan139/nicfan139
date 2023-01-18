@@ -1,8 +1,8 @@
 # Hi there 👋, and welcome to my GitHub profile!
 
-My name's Nicolas Fan (but you can call me Nic), and I'm a full-stack developer with 4-5 years of experience.
+My name's Nicolas Fan (but you can call me Nic), and I'm a Full-Stack developer with 4-5 years of experience.
 
-Although I can do full-stack, I definitely prefer working on the front-end!
+Although I can do Full-Stack, I definitely prefer working on the Front-End!
 
 I'm primarily a React developer. But I also enjoy building small projects with SvelteKit, and I'm currently sharpening my knowledge with GraphQL.
 
@@ -15,7 +15,7 @@ My main specialties:
 
 I also have experience with:
 - Ruby on Rails
-- PostgreQl
+- PostgreSQL
 - Node.js
 - Express
 - Jest
