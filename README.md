@@ -4,7 +4,7 @@ My name's Nicolas Fan (but you can call me Nic), and I'm a web developer with 4-
 
 Although I can do Full-Stack, I definitely prefer working on the Front-End!
 
-I'm primarily a React developer. But I also enjoy building small projects with SvelteKit, and I'm currently sharpening my knowledge with GraphQL.
+I'm primarily a React developer. But I also enjoy building small projects with SvelteKit, and I'm currently sharpening my knowledge with GraphQL and React Native.
 
 ---
 
