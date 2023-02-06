@@ -1,6 +1,6 @@
 # Hi there 👋, and welcome to my GitHub profile!
 
-My name's Nicolas Fan (but you can call me Nic), and I'm a web developer with 4-5 years of experience.
+My name's Nicolas Fan (but you can call me Nic), and I'm a web developer with 5+ years of experience.
 
 Although I can do Full-Stack, I definitely prefer working on the Front-End!
 
