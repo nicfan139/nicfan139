@@ -20,7 +20,7 @@ I also have experience with:
 - PostgreSQL
 - Jest
 - Cypress
-- CirclCI
+- CircleCI
 
 ---
 
