@@ -14,12 +14,13 @@ My main specialties:
 - Next.js
 
 I also have experience with:
-- Ruby on Rails
-- PostgreSQL
 - Node.js
 - Express
+- Ruby on Rails
+- PostgreSQL
 - Jest
 - Cypress
+- CirclCI
 
 ---
 
