@@ -11,9 +11,9 @@ I'm primarily a React developer. But I also enjoy building small projects with S
 My main specialties:
 - React
 - TypeScript
-- Next.js
 
 I also have experience with:
+- Next.js
 - Node.js
 - Express
 - Ruby on Rails
