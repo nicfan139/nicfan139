@@ -26,8 +26,8 @@ I also have experience with:
 
 When I'm not coding, I really enjoy:
 - Football/Soccer ️⚽️
+- Volleyball 🏐
 - Bass guitar 🎸
-- Video games 🎮
 - Discovering new food spots 🍽
 - Discovering new bars 🍺
-- Travelling ✈️
+- Solo-travelling ✈️
